@@ -1,0 +1,28 @@
+{
+    "name": "nodejs-express-sequelize-msql",
+    "version": "1.0.0",
+    "description": "Node.js Rest Apis with Express,Sequelize &Mysql",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "nodejs",
+        "express",
+        "rest",
+        "api",
+        "sequelize",
+        "mysql"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "mysql2": "^2.0.2",
+        "nodemon": "^2.0.12",
+        "request": "^2.88.2",
+        "sequelize": "^5.21.2"
+    }
+}

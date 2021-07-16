@@ -1,4 +1,4 @@
 var person = require('./person');
-var display = person.display("Akshat", "Mishra");
+var display = person.display("Sajida", "Mullani");
 
 console.log(display);
